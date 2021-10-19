@@ -24,7 +24,9 @@
  
 ## Key idea
 - The hand tracking module used in the project has its backend written on media pipe(https://google.github.io/mediapipe/solutions/hands)
-- 
+- ![](Images/idea.png)
+- Maths behind this is
+  - - Distance between point 8 and 12 is calculated and when they are colliding then character is selected.
 
 ## Installation Process and Working
 - Include all the files present in the repository.
